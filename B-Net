@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://192.168.91.8/assets/images/AsiaCup.png", ASIA CUP LIVE
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/DRkS2c3/T-Sports.png",T Sports-1
 http://192.168.91.8/streams/120/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://192.168.91.8/assets/images/AsiaCup.png", ASIA CUP LIVE
