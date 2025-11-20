@@ -31,17 +31,6 @@ http://192.168.91.8/streams/119/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://192.168.91.8/assets/images/sonysportsten3.png", Sony Sports-3
 http://192.168.91.8/streams/130/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://192.168.91.8/assets/images/eurosporthd.png", Eurosport HD
-http://192.168.91.8/streams/124/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="http://192.168.91.8/assets/images/realmtv.jpg", realmtv
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-id="34" tvg-logo="https://s3.aynaott.com/storage/1c22bca22dc77c03b5ed6349bc773079", A sports
-http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
-
-
-
 
 
 
