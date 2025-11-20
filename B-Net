@@ -6,9 +6,6 @@ http://192.168.91.8/streams/120/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://192.168.91.8/assets/images/AsiaCup.png", ASIA CUP LIVE
 http://192.168.91.8/streams/121/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/DRkS2c3/T-Sports.png",T Sports-2
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/M7F1jbt/Star-Sports-1.png",Star-Sports-1
 http://192.168.91.8/streams/118/index.m3u8
 
