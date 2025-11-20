@@ -6,8 +6,8 @@ http://192.168.91.8/streams/120/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://192.168.91.8/assets/images/AsiaCup.png", ASIA CUP LIVE
 http://192.168.91.8/streams/121/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/DRkS2c3/T-Sports.png",T Sports-1
-https://live-test.tsports.com/live-02/master_1080.m3u8?hdntl=Expires=1749598314~_GO=Generated~URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Signature=AXWJlB5ZaDoF0-EaZFt4smc7mQZS88807CI_px7fIv-hKGvWSh6BFoqo7IJHxH-3ppCSU8DjJecK2LRB8hEtAGZoRIsG
+
+
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/DRkS2c3/T-Sports.png",T Sports-2
