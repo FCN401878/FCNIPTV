@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/5hPnLB1B/In-Shot-20251122-002334909.jpg", B-Net Live Streaming
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/mCK6c7Lb/B-NET-BDIX.jpg", B-Net Live Streaming
 http://192.168.91.8/streams/120/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/DRkS2c3/T-Sports.png",T Sports
