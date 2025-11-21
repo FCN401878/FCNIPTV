@@ -61,6 +61,61 @@ http://178.33.239.54:8080/508a/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",beIN SPORTS 1
+http://5.9.119.146:8883/beinfr1/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",beIN SPORTS 2 
+http://5.9.119.146:8883/beinfr2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Arena1
+http://185.166.252.230/Arena1/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Arena2
+http://185.166.252.230/Arena2/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Arena3
+http://185.166.252.230/Arena3/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Arena4
+http://185.166.252.230/Arena4/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Arena5
+http://185.166.252.230/Arena5/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Arena6
+http://185.166.252.230/Arena6/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Arena7
+http://185.166.252.230/Arena7/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Arena8
+http://185.166.252.230/Arena8/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Arena9
+http://185.166.252.230/Arena9/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Arena10
+http://185.166.252.230/Arena10/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Tivibu Spor 1
+http://65.108.239.207/t1/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Tivibu Spor 2
+http://65.108.239.207/t2/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Tivibu Spor 3
+http://65.108.239.207/t3/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Tivibu Spor 4
+http://65.108.239.207/t4/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",tabii sport 1
+http://65.108.239.207/tabi1/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",tabii sport 2
+http://65.108.239.207/tabi2/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",tabii sport 3
+http://65.108.239.207/tabi3/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",tabii sport 4
+http://65.108.239.207/tabi4/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",tabii sport 5
+http://65.108.239.207/tabi5/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",tabii sport 6
+http://65.108.239.207/tabi6/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/CKpktHZD/TNT-Sports.png", TNT Sport 1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/CKpktHZD/TNT-Sports.png", TNT Sport 2
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/CKpktHZD/TNT-Sports.png", TNT Sport 3
