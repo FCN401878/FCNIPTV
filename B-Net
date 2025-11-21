@@ -48,7 +48,16 @@ http://66.102.120.18:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png", Live-8
 http://66.102.120.18:8000/play/a001/index.m3u8
 
-
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",SKY SPORT CRICKET
+http://178.33.239.54:8080/503a/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",SKY SPORT ACTION
+http://178.33.239.54:8080/504a/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",SKY SPORT PREMIER LEAGUE
+http://178.33.239.54:8080/506a/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",SKY SPORTS MIX HD
+http://178.33.239.54:8080/507a/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co.com/9JLsDkq/FCN-IPTV.png",Sky SPORTS F1
+http://178.33.239.54:8080/508a/index.m3u8
 
 
 
