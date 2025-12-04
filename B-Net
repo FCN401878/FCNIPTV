@@ -47,5 +47,22 @@ https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1764872384&u=78be6644-0a65-4
 
 
 
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/30.png" group-title="RoarZone",Star Jalsha
+http://103.166.152.22:8080/roarzone/bk/30/index.m3u8?token=669de8ebcf91155f9e1712e5ee2d0a5b6ce1c8b1-06cbf8080234b8e70853456feb59b12a-1764872699-1764861899
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/31.png" group-title="RoarZone",Star Jalsha Movies
+http://103.166.152.22:8080/roarzone/bk/31/index.m3u8?token=f269b8a528d6ccd6188a5f624b91a71ceb88a2b1-4ad8de9d269507e205b5a4c04cf6badc-1764872700-1764861900
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/34.png" group-title="RoarZone",Zee Bangla
+http://103.166.152.22:8080/roarzone/bk/34/index.m3u8?token=761ea0e20c7231c996a5cf917373bf9ce1e31e85-b50f2e441b92636b78e6ecfa68b3032a-1764872701-1764861901
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/29.png" group-title="RoarZone",ZEE Bangla Cinema
+http://103.166.152.22:8080/roarzone/bk/29/index.m3u8?token=44e11f0b78d1053b0e1e13d55da9ab33d54750a7-be1829cea172535199de1211ce3af1e2-1764872702-1764861902
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/66.png" group-title="RoarZone",Colors Bangla
+http://103.166.152.22:8080/roarzone/bk/66/index.m3u8?token=d75c4b3fbef7487849111bbf21c9b12f7a258874-c6f2ce29965f60b0a82a210d63e0251b-1764872702-1764861902
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/33.png" group-title="RoarZone",Sony Aath
+http://103.166.152.22:8080/roarzone/bk/33/index.m3u8?token=720fd3b4295fdf291ee4ced1ca1fc49806ed8c9d-689d5ca43b3cd0d014739b4b0e87ba34-1764872703-1764861903
 
 
