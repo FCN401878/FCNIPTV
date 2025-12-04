@@ -353,3 +353,64 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-logo="https://s3.aynaott.com/storage/7cf2b06797fbf033a81f5d253fd6adcb", Jamuna TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+
+
+
+
+
+
+
+
+
+
+-logo="https://s3.aynaott.com/storage/e6b0b63ca114bc668d9b751e92146d78" group-title="AynaOTT",AccuWeather
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c7879032ce19ecb37a2f2519a533914b" group-title="AynaOTT",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/7a88c23b413ce2b4ab85d343ac900327" group-title="AynaOTT",Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/55430ea2cf8f872c7d3e511ca9cd323c" group-title="AynaOTT",Weather SPY
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/df42ac4d94d4c135daf32fd8894def46" group-title="AynaOTT",Discover Pikstan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1a1a9ad060ec88d89e9597baf7a57d0d" group-title="AynaOTT",RTV Islam
+https://protokolldns.xyz/rtvislamweb554/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/856337a107c78a6951acec259fe2361b" group-title="AynaOTT",Iqra Bangla
+https://tvsen5.aynascope.net/iqrabangla/index.m3u8?e=1764872546&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3dfab2f54179dbe56e71cbeca38c441f
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e7e8bdd333a9fa57e6b06574876efd58" group-title="AynaOTT",CMAC TV
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8c6ee6654f9ba188935c25b4752824d1" group-title="AynaOTT",Pro Sports International
+https://proshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b02bbc844983ec6bb993f66268594bd7" group-title="AynaOTT",Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/41f93b241c267e5c8441123d338a01d3" group-title="AynaOTT",OAN
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dde8e3f9023b16d6fc2c73ea73c4862b" group-title="AynaOTT",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b5033b5517bfdb6e954b2475c0b57728" group-title="AynaOTT",ABN
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0d7976633a35b044d736e57b240a4e97" group-title="AynaOTT",Hadi TV
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/65316ac99a389a87d5f72255b198770b" group-title="AynaOTT",TBS
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c106e0444c848b229551f5524e77abfb" group-title="AynaOTT",Dubai TV
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8d0a902df51f417c63772d23ea734a0a" group-title="AynaOTT",Awaaz India
+http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+
