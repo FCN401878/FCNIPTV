@@ -3,8 +3,11 @@
 #EXTINF:-1 group-title="B-Net" tvg-logo="https://i.ibb.co.com/ccj287bG/B-Net-BDIX.png", B-Net Live Streaming
 http://192.168.91.8/streams/120/index.m3u8
 
-#EXTINF:-1 B-Net" tvg-logo="https://i.ibb.co/DRkS2c3/T-Sports.png",T Sports
-https://live.matribhumitv.com/matribhumi-sports/index.m3u8
+#EXTINF:-1 group-title="B-Net" tvg-logo="https://i.ibb.co.com/ccj287bG/B-Net-BDIX.png", Star Sports 1
+http://192.168.91.8/streams/118/index.m3u8
+
+#EXTINF:-1 group-title="B-Net" tvg-logo="https://i.ibb.co.com/ccj287bG/B-Net-BDIX.png", Star Sports 2
+http://192.168.91.8/streams/117/index.m3u8
 
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://192.168.91.8/assets/images/AsiaCup.png", ASIA CUP LIVE
 http://192.168.91.8/streams/121/index.m3u8
