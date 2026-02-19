@@ -37,5 +37,5 @@ http://192.168.91.8/streams/130/index.m3u8
 
 
 
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://192.168.91.8/assets/images/sonysportsten3.png", Test
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://192.168.91.8/assets/images/starjalsha.png",StarJalsha
 https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1771531088&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=13df872174aa078becb22f7f2c255f6d
