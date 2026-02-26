@@ -34,48 +34,55 @@ http://192.168.91.8/streams/119/index.m3u8
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://192.168.91.8/assets/images/sonysportsten3.png", Sony Sports-3
 http://192.168.91.8/streams/130/index.m3u8
 
-
-
-
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://192.168.91.8/assets/images/starjalsha.png", StarJalsha-1
 http://192.168.91.8/streams/125/index.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starjalsha.png", StarJalsha-2
+
+
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starjalsha.png", StarJalsha
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/colorsbangla.png",ColorsBanglaHD
+http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ColorsBanglaCinema.png", Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/BIJOYTV.png",NAGARIK TV
-http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/tsports.png",T sports HD
-http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starsports1.jpg",STAR SP-1
-http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starsports1.jpg",STAR SP-1
-http://103.158.133.62:8080/starsports1/index.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ptvsports.png",PTV-SPORTS
-http://203.18.159.115/PTVSPORTSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/tsports.png",T sports HD
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/news24.png", News24
-http://198.195.239.50:8095/News24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/sonyaath.png", SonyAath
-http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ColorsBanglaCinema.png", JalshaMovies
 http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ColorsBanglaCinema.png",ColorsCineplex
-http://198.195.239.50:8095/ColorsCineplex/index.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ColorsBanglaCinema.png", Tsport
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://nagorik.com/wp-content/uploads/2024/03/jsdvhsdjFFF-150x50-1.png",NAGARIK TV
+http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ColorsBanglaCinema.png", nagorik
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ColorsBanglaCinema.png", SonyAath
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/tsports.png",T sports HD
+http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/tsports.png",T sports HD
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starsports1.jpg",STAR SP-1
+http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starsports1.jpg",STAR SP-1
+http://103.158.133.62:8080/starsports1/index.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ptvsports.png",PTV-SPORTS
+http://203.18.159.115/PTVSPORTSHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/news24.png", News24
+http://198.195.239.50:8095/News24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/sonyaath.png", SonyAath
 http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ColorsBanglaCinema.png",ColorsBanglaHD
-http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ColorsBanglaCinema.png",ColorsBanglaChinema
-http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ColorsBanglaCinema.png",WiLLow
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/goldmines.jpg",ColorsCineplex
+http://198.195.239.50:8095/ColorsCineplex/index.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/beinSportsX.png",WiLLow
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 
