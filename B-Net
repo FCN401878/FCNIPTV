@@ -91,9 +91,15 @@ http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1772284661:KeyName=prod_linear:Signature=JQvqpTRoEbE1Lk8HHaTmeNZATcodrkyMxI6NGgr1xcuiJhdGQES3pT5ah9ZKQJHWeWJegpxd7TFG_CBhLns4CQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",Zee Bangla Cinema VIP
+#EXTVLCOPT:http-user-agent=Toffee Monirul Islam X (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1772284661:KeyName=prod_linear:Signature=JQvqpTRoEbE1Lk8HHaTmeNZATcodrkyMxI6NGgr1xcuiJhdGQES3pT5ah9ZKQJHWeWJegpxd7TFG_CBhLns4CQ"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",Sony Aat VIP
+#EXTVLCOPT:http-user-agent=Toffee Monirul Islam X (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1772284661:KeyName=prod_linear:Signature=JQvqpTRoEbE1Lk8HHaTmeNZATcodrkyMxI6NGgr1xcuiJhdGQES3pT5ah9ZKQJHWeWJegpxd7TFG_CBhLns4CQ"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 
 
 
