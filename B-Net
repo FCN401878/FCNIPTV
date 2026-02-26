@@ -56,7 +56,7 @@ http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://nagorik.com/wp-content/uploads/2024/03/jsdvhsdjFFF-150x50-1.png",NAGARIK TV
 http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ColorsBanglaCinema.png", nagorik
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://nagorik.com/wp-content/uploads/2024/03/jsdvhsdjFFF-150x50-1.png",NAGARIK TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/tsports.png",T sports HD
