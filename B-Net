@@ -53,7 +53,12 @@ http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starjalsha.png", StarJalsha
+#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starjalsha.png", StarJalsha-1
+https://go.iptvpulse.top/kzy8.m3u8
+
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starjalsha.png", StarJalsha-2
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/colorsbangla.png",ColorsBanglaHD
