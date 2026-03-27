@@ -58,38 +58,34 @@ https://go.iptvpulse.top/kzy8.m3u8
 
 
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starjalsha.png", StarJalsha-2
-http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/colorsbangla.png",ColorsBanglaHD
-http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
+
+
+
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ColorsBanglaCinema.png", Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.ibb.co/7JZk2HJh/JALSHA-MOVIES.png",JalshaMovies
-http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://nagorik.com/wp-content/uploads/2024/03/jsdvhsdjFFF-150x50-1.png",NAGARIK TV
-http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.ibb.co/7JZk2HJh/JALSHA-MOVIES.png",JalshaMovies
+
+
+
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://nagorik.com/wp-content/uploads/2024/03/jsdvhsdjFFF-150x50-1.png",NAGARIK TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/tsports.png",T sports HD
-http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/tsports.png",T sports HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starsports1.jpg",STAR SP-1
-http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="http://192.168.91.8/assets/images/starsports1.jpg",STAR SP-1
-http://103.158.133.62:8080/starsports1/index.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/ptvsports.png",PTV-SPORTS
-http://203.18.159.115/PTVSPORTSHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://clicktv.page.gd/images/news24.png", News24
 http://198.195.239.50:8095/News24/tracks-v1a1/mono.m3u8
