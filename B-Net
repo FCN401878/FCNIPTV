@@ -13,13 +13,13 @@
 
 
 
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://192.168.91.8/assets/images/zeebangla.png", Zee Bangla-1
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Zee%20Bangla.png", Zee Bangla-1
 http://180.94.28.28:8097/ZEE-BANGLA/index.fmp4.m3u8?token=714c2097b3cb0b6bf5291ca831947498baa6ec02-4d33ebc0200ce8ee54f7cac49d22b752-1775755394-1775751794
 
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://192.168.91.8/assets/images/starjalsha.png", StarJalsha-1
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Star%20Jalsha.png", StarJalsha-1
 http://180.94.28.28:8097/STAR-JALSHA/index.fmp4.m3u8?token=96f1d27c4c0edf82357d8f1a1713c2026a5f524c-8747b07e435242d618829bd77078e0fc-1775755169-1775751569
 
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://192.168.91.8/assets/images/colorsbangla.png",ColorsBanglaHD
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Colors%20Bangla.png",ColorsBanglaHD
 http://180.94.28.28:8097/COLORS-BANGLA/index.fmp4.m3u8?token=266a4b11e99280aff6b70f942664b01c4aac46d9-197d4fea33b2808bd1586880cae7507b-1775755452-1775751852
 
 
