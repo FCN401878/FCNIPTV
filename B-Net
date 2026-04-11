@@ -34,6 +34,13 @@ http://180.94.28.28:8097/BEIN-SPORTS-3/index.fmp4.m3u8?token=f58f30629493d09d706
 http://180.94.28.28:8097/PTV-Sports/index.fmp4.m3u8?token=4c09fd6eca81303bb05ab022d40cb0d2a6c92a1a-f6da54c6c251e2127744cadb19345c42-1775933657-1775930057
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/A%20Sports.png", A-Sports
 http://180.94.28.28:8097/A-Sports/index.fmp4.m3u8?token=3fef5048ae5ede1f225518a1eb5695f105b07eae-d0852aa297340df6d2e48796e7f6e97e-1775933727-1775930127
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/ten%20cricket.png", Ten-Cricket
+http://180.94.28.28:8097/Ten-Cricket/index.fmp4.m3u8?token=99201ba4640844806f4277d6fb36fb2737b7f9f6-a232fc4e27ae098839913e7bb7aa598d-1775934088-1775930488
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/SuperSportcricket.png", SUPERSPORT-CRICKET
+http://180.94.28.28:8097/SUPERSPORT-CRICKET/index.fmp4.m3u8?token=a0414eb5833ea7e88210d8fd1b710747ec97007e-2d4b0ba5f5ef4abb20801396aa79be3c-1775934158-1775930558
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/SKY-SPORTS-CRICKET.png", SKY-SPORTS-CRICKET
+http://180.94.28.28:8097/SKY-SPORTS-CRICKET/index.fmp4.m3u8?token=1f2c8f6f8dc01194c3cf1bcad7209aa225d74bba-28f296139a0c168e1f338b7b8d5ecaa9-1775934209-1775930609
+
 
 
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Zee%20Bangla.png", Zee Bangla-1
@@ -52,6 +59,14 @@ http://180.94.28.28:8097/ENTER-10-BANGLA/index.fmp4.m3u8?token=86ff10ff414072031
 http://180.94.28.28:8097/SUN-BANGLA/index.fmp4.m3u8?token=1f6d82fcd03f0af7de97f4194711ebb11d5ec699-6051915feeb343c59159950b4b8daa7d-1775932906-1775929306
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Sony%20Aath.png", SonyAath
 http://180.94.28.28:8097/SONY-AATH/index.fmp4.m3u8?token=e78ae4f1314610ec9a2f47f3c5dba2faafddb4f5-8a2cb3f937bd32ef2804e527c06151f3-1775931933-1775928333
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/GEO-SUPER.png", GEO-SUPER
+http://180.94.28.28:8097/GEO-SUPER/index.fmp4.m3u8?token=9e6375800a1eb984668478561ef09af7e40940ef-c851489c5b06ec4d6e9e23698a7945a2-1775934267-1775930667
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Sky%20sports%20football.jpg", Sky-Sports-Football
+http://180.94.28.28:8097/Sky-Sports-Football/index.fmp4.m3u8?token=b5e7a8cb440f654834a13748f2cf1ff097f3adec-0f3e4f27baf11616c9573ea697e94659-1775934316-1775930716
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Sky%20Sports%20Premier%20League.jpg", Sky-Sports-Premier-League
+http://180.94.28.28:8097/Sky-Sports-Premier-League/index.fmp4.m3u8?token=fdd6898bc65d09e26cdff1a0c7e1ad4ade9e7fc1-e07043e5b121a0dce85bc10ef24ebf02-1775934364-1775930764
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/WILLOW_SPORTS.png", WILLOW-TV
+http://180.94.28.28:8097/WILLOW-TV/index.fmp4.m3u8?token=23fc19820b76b4b3c69df31a4166dd1705b15c8b-614b2e2a763152b05c923ca2b4b52390-1775934414-1775930814
 
 
 
@@ -83,6 +98,17 @@ http://180.94.28.28:8097/DBC-NEWS/index.fmp4.m3u8?token=67c2df21da57ff9906451d66
 http://180.94.28.28:8097/Independent-TV/index.fmp4.m3u8?token=3ba332dce51a9d1245a18226805a39fe9326cdec-4d4159473d998dcc780f46dde97825a2-1775932735-1775929135
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Rtv%20.png", RTV
 http://180.94.28.28:8097/RTV/index.fmp4.m3u8?token=9cffff77b0bdb9a00a88098b87f3c6a7e1b2fc3d-b31dc07676239e50abd253ed11c38df2-1775932795-1775929195
+
+
+
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Duronto-TV.png", Duronto-TV
+http://180.94.28.28:8097/Duronto-TV/index.fmp4.m3u8?token=f3c9966d8427046f0e633245a00ec58ce3cbcc7c-875653dad3f91a96b14ddf6a86498938-1775934488-1775930888
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/CN.png", CARTOON-NETWORK
+http://180.94.28.28:8097/CARTOON-NETWORK/index.fmp4.m3u8?token=94c064d2287234288db8da9cdefdababbd660173-bf9cbb155bb1702525c1ae0006ef60a6-1775934561-1775930961
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/POGO1664977122.png", POGO
+http://180.94.28.28:8097/POGO/index.fmp4.m3u8?token=70b4fcde6056a212f646f290e2156341c5fb538b-22d8d89501e47700eecd149c119559e8-1775934618-1775931018
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Discovery_kids.png", DISCOVERY-KIDS
+http://180.94.28.28:8097/DISCOVERY-KIDS/index.fmp4.m3u8?token=9e2e5ba2e82d66a32a976b8793759d6cfce7a629-d763ae84b60025f91974e3e227750893-1775934687-1775931087
 
 
 
