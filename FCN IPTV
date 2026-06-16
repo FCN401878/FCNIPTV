@@ -1,8 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA 2026-2
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA 2026-
 http://192.168.91.8/streams/119/index.m3u8
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA 2026-1
-http://192.168.91.8/streams/117/index.m3u8
+
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA 2026
+http://180.94.28.28:8097/Fifa-2026/index.fmp4.m3u8?token=28ec92a051112d4ef817fff7c5e84e2bc73993f0-a7fdca74a2e2af75008fb152fe99be81-1781642744-1781639144
+
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA 2026
+http://180.94.28.28:8097/PTV-Sports/index.fmp4.m3u8?token=d76c2ba7cc98d653b977767c3a82f27a31d67cd0-711069079d23b3b29ad1744e6dad531d-1781642786-1781639186
+
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/T%20Sports.png",T sports HD
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
