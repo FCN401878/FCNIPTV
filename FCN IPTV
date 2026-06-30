@@ -8,20 +8,21 @@ http://180.94.28.28:8097/Fifa-2026/index.fmp4.m3u8?token=28ec92a051112d4ef817fff
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA 2026
 http://180.94.28.28:8097/PTV-Sports/index.fmp4.m3u8?token=d76c2ba7cc98d653b977767c3a82f27a31d67cd0-711069079d23b3b29ad1744e6dad531d-1781642786-1781639186
 
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/T%20Sports.png",T sports HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://198.195.239.50/img/channels/PTV%20SPORTS%20HD.png",PTV
+http://198.195.239.50:8095/ptv/index.m3u8
 
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://198.195.239.50/img/channels/SOMOY%20TV.png",SOMOY TV
+http://198.195.239.50:8095/somoyTv/index.m3u8
 
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png",BTV HD
+http://198.195.239.50:8095/btv/index.m3u8
 
-
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png",BTV HD
+http://198.195.239.50:8095/btv/video.m3u8
 
 
 
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee Sports
-http://sm-monirul.top/tof/live/gervsivo/index.m3u8
-
-
-
 
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Star%20Sports%202%20.png", Star Sports 2
 
