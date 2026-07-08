@@ -8,21 +8,41 @@ http://180.94.28.28:8097/Fifa-2026/index.fmp4.m3u8?token=28ec92a051112d4ef817fff
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA 2026
 http://180.94.28.28:8097/PTV-Sports/index.fmp4.m3u8?token=d76c2ba7cc98d653b977767c3a82f27a31d67cd0-711069079d23b3b29ad1744e6dad531d-1781642786-1781639186
 
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://198.195.239.50/img/channels/PTV%20SPORTS%20HD.png",PTV
-http://198.195.239.50:8095/ptv/index.m3u8
 
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://198.195.239.50/img/channels/SOMOY%20TV.png",SOMOY TV
-http://198.195.239.50:8095/somoyTv/index.m3u8
-
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png",BTV HD
-http://198.195.239.50:8095/btv/index.m3u8
-
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png",BTV HD
-http://198.195.239.50:8095/btv/video.m3u8
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/bf5a8ad8-3996-44f8-80cb-df33f4d53d0f.png",FRA VS MAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8
 
 
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",Match Rewatch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toffee-fifa.sm-monirul.top/sm/match_rewatch.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee Sports
+#EXTINF:-1 group-title="Other" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV-1
+http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 group-title="Other" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV-2
+http://180.94.28.28:8097/Fifa-2026/index.m3u8
+
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/53aSeDH.png", Toffee-1
+https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8
+
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/53aSeDH.png", Toffee-2
+https://toffee-fifa.sm-monirul.top/sm/toffee2.m3u8
+
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/53aSeDH.png", Toffee-3
+https://toffee-fifa.sm-monirul.top/sm/match_rewatch.m3u8
+
+#EXTINF:-1 group-title="Other" tvg-logo="http://198.195.239.50/img/channels/T%20SPORTS.png", T-SPORTS
+http://103.165.93.31:8095/tsports/video.m3u8
+
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/yTl9XIh.png", Unite8
+http://103.165.93.31:8095/unt-s/video.m3u8
+
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/yTl9XIh.png", Unite8
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+
 
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Star%20Sports%202%20.png", Star Sports 2
 
