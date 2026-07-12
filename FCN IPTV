@@ -5,9 +5,8 @@ http://180.94.28.28:8097/Fifa-2026/index.fmp4.m3u8?token=28ec92a051112d4ef817fff
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA PTV
 http://180.94.28.28:8097/PTV-Sports/index.fmp4.m3u8?token=d76c2ba7cc98d653b977767c3a82f27a31d67cd0-711069079d23b3b29ad1744e6dad531d-1781642786-1781639186
 
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA T-Sports 
-http://180.94.28.28:8097/Test-tv/index.fmp4.m3u8?token=79352d1fc22c647bdc665cda3ac7ffec793b7010-2e8e9b412d4377117761f80719344db3-1783514777-1783511177
-
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA Somoy TV
+http://180.94.28.28:8097/Fox/index.fmp4.m3u8?token=d5ee1f1718a02c5de9eae1102b7e1e8f9a78ed4d-ffa38dd73d29c09bd841d3deaf733bea-1783882142-1783878542
 
 
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",IP LINK-1
@@ -20,26 +19,8 @@ http://192.168.91.8/streams/118/index.m3u8
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",IP LINK-3
 http://192.168.91.8/streams/119/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/bf5a8ad8-3996-44f8-80cb-df33f4d53d0f.png",FRA VS MAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="Other" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV-1
 http://180.94.28.28:8097/Fifa-2026/index.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://i.imgur.com/53aSeDH.png", Toffee-1
-https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8
-
-
 
 #EXTINF:-1 group-title="Other" tvg-logo="http://198.195.239.50/img/channels/T%20SPORTS.png", T-SPORTS
 http://103.165.93.31:8095/tsports/video.m3u8
