@@ -1,26 +1,32 @@
 #EXTM3U
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Zee%20Bangla.png", Zee Bangla
+http://180.94.28.28:8097/ZEE-BANGLA/tracks-v1/index.fmp4.m3u8?token=33a64e4c8f1a1ee8c0c5bf3bba13b09f9a349166-7676cdd9e3090573431e386e1d31eb50-1789474468-1789470868
+
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Star%20Jalsha.png", StarJalsha
+http://180.94.28.28:8097/STAR-JALSHA/tracks-a1/index.fmp4.m3u8?token=71f51b495ccec958ddcde7e6fdc683cc9cdd2f7e-b20906ee86130addcdc7f6a1717dc1e5-1789474946-1789471346
+
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Jalsha%20Movies.png",JalshaMovies
+http://180.94.28.28:8097/JALSHA-MOVIES/tracks-a1/index.fmp4.m3u8?token=80682387d46d950bf4ddc0878d0949787e746847-0aa0ef29f58e79fdd00a4a5e4f1642fc-1789475029-1789471429
+
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Colors%20Bangla.png",ColorsBanglaHD
+http://180.94.28.28:8097/COLORS-BANGLA/tracks-a1/index.fmp4.m3u8?token=fc23ae9eb8610dd2156a08c570aef81c5f47d856-260c026c8f7da0c2e7758a001fe9ecde-1789475078-1789471478
+
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Sun%20Bangla.png", SUN-BANGLA
+http://180.94.28.28:8097/SUN-BANGLA/tracks-a1/index.fmp4.m3u8?token=80cdf6b981e5974924931ee0263fab271a7d59ee-aaa3225cacd9089cb13ba4a485606191-1789475127-1789471527
+
+#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/Enter%2010%20Bangla.png", ENTER-10-BANGLA
+http://180.94.28.28:8097/ENTER-10-BANGLA/tracks-a1/index.fmp4.m3u8?token=970d7e4dfd77f1b60013ebdf6bb73044abf7f6f4-6697f98e8d619ca700caa6eb217c003d-1789475203-1789471603
+
+
+
+
+
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",IP LINK-1
 http://192.168.91.8/streams/117/index.m3u8
-
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",IP LINK-2
 http://192.168.91.8/streams/118/index.m3u8
-
 #EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",IP LINK-3
 http://192.168.91.8/streams/119/index.m3u8
-
-
-
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA BTV
-http://180.94.28.28:8097/Fifa-2026/index.fmp4.m3u8?token=28ec92a051112d4ef817fff7c5e84e2bc73993f0-a7fdca74a2e2af75008fb152fe99be81-1781642744-1781639144
-
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA PTV
-http://180.94.28.28:8097/Test-tv/index.fmp4.m3u8?token=0b1f69861ae68132d4e60b7d90f253a462b388cd-fd0caac0288ffc70696631de8e3869e9-1784147827-1784144227
-
-#EXTINF:-1 group-title="B-Net" tvg-logo="http://ftpbdlive.com/assets/images/fifa26.png",FIFA Somoy TV
-http://180.94.28.28:8097/Fox/index.fmp4.m3u8?token=d5ee1f1718a02c5de9eae1102b7e1e8f9a78ed4d-ffa38dd73d29c09bd841d3deaf733bea-1783882142-1783878542
-
-#EXTINF:-1 group-title="Other" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV-1
-http://180.94.28.28:8097/Fifa-2026/index.m3u8
 
 
 
